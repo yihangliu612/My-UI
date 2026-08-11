@@ -1,2 +1,2 @@
 # My-UI
-安装脚本及安装包
+s-ui-local-installer
